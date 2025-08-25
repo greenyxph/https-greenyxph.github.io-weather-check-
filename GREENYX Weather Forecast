@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>GREENYX Weather Forecast</title>
+  <title>Greenyx Weather Forecast</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>Weather Forecast for Central Luzon</h1>
-  <div id="forecast">Loading forecast...</div>
+  <div id="forecast">Loading...</div>
   <script src="script.js"></script>
 </body>
 </html>
